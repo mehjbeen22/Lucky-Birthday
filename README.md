@@ -1,4 +1,4 @@
-# Lucky-Birthday
+
 # Project Title: Lucky Date Checker
 
 # Description:
